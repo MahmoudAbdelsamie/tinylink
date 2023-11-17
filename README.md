@@ -19,4 +19,12 @@ TinyLink is a simple URL shortener built with Node.js, Express, and MongoDB.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TinyLink.git
+   git clone https://github.com/MahmoudAbdelsamie/TinyLink.git
+
+2. Install Packages:
+   ```bash
+   npm install
+
+3. Run The App:
+   ```bash
+   npm run dev
